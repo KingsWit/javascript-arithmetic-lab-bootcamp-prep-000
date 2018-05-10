@@ -23,5 +23,5 @@ function makeInt(n) {
   return parseInt(n, 10);
 }
 function preserveDeciman(n) {
-  return parseFloat(n);
+  return parseFloat('n');
 }
